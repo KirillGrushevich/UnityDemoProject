@@ -63,3 +63,7 @@ DemoProject/Logs
 DemoProject/Temp
 DemoProject/UserSettings/Layouts
 DemoProject/UserSettings/EditorUserSettings.asset
+DemoProject/.idea
+DemoProject/ProjectSettings/SceneTemplateSettings.json
+DemoProject/obj
+DemoProject/UserSettings
