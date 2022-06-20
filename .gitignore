@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+DemoProject/Library
+DemoProject/Logs
+DemoProject/Temp
+DemoProject/UserSettings/Layouts
+DemoProject/UserSettings/EditorUserSettings.asset
